@@ -1,2 +1,2 @@
 # Doubly_Linked_List
-Creates a class that creates a doubly linked list
+This code creates a doubly-linked list class (DDList) with fast accessing using an internal index. The index is an array-based list that stores references to nodes. 
